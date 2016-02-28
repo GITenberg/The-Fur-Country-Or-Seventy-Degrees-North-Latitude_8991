@@ -1,0 +1,70 @@
+_repo: The-Fur-Country-Or-Seventy-Degrees-North-Latitude_8991
+contributor:
+  translator:
+    agent_name: D'Anvers, N.
+    aliases:
+    - Bell, Mrs. Arthur
+    - Bell, Nancy R. E. Meugens
+    - Bell, Nancy
+    - Bell, Arthur, Mrs.
+    deathdate: 1933
+    gutenberg_agent_id: '1165'
+    url: http://www.gutenberg.org/2009/agents/1165
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: "The Fur Country (French: Le Pays des fourrures) is an adventure novel\
+  \ by Jules Verne in The Extraordinary Voyages series, first published in 1873. The\
+  \ novel was serialized in Magasin d’Éducation et de Récréation from September 1872\
+  \ to December 1873. The two-volume first original French edition and the first illustrated\
+  \ large-format edition were published in 1873. The first English translation by\
+  \ N. D’Anvers (pseudonym of Mrs. Arthur (Nancy) Bell) was also published in 1873.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8991'
+  wikidata: Q1169463
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fur traders -- Fiction'
+- !lcsh 'Earthquakes -- Fiction'
+- !lcsh 'Northwest Territories -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Survival -- Fiction'
+title: 'The Fur Country: Or, Seventy Degrees North Latitude'
+url: http://www.gutenberg.org/ebooks/8991
+wikipedia:
+- https://fi.wikipedia.org/wiki/Turkiksien_maassa
+- https://fr.wikipedia.org/wiki/Le_Pays_des_fourrures
+- https://ar.wikipedia.org/wiki/%D8%A8%D9%84%D8%A7%D8%AF_%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%A1_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://pt.wikipedia.org/wiki/O_Pa%C3%ADs_das_Peles
+- https://pl.wikipedia.org/wiki/Wyspa_b%C5%82%C4%85dz%C4%85ca
+- https://it.wikipedia.org/wiki/Il_paese_delle_pellicce
+- https://cs.wikipedia.org/wiki/Zem%C4%9B_ko%C5%BEe%C5%A1in
+- https://de.wikipedia.org/wiki/Das_Land_der_Pelze
+- https://es.wikipedia.org/wiki/El_pa%C3%ADs_de_las_pieles
+- https://sk.wikipedia.org/wiki/V_krajine_ko%C5%BEu%C5%A1%C3%ADn
+- https://hy.wikipedia.org/wiki/%D5%84%D5%B8%D6%80%D5%A9%D5%AB%D5%B6%D5%A5%D6%80%D5%AB_%D5%A5%D6%80%D5%AF%D6%80%D5%B8%D6%82%D5%B4
+- https://en.wikipedia.org/wiki/The_Fur_Country
+- https://commons.wikimedia.org/wiki/Category:The_Fur_Country
+- https://ru.wikipedia.org/wiki/%D0%92_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5_%D0%BC%D0%B5%D1%85%D0%BE%D0%B2
+- https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B7_%CF%87%CF%8E%CF%81%CE%B1_%CF%84%CF%89%CE%BD_%CE%B3%CE%BF%CF%85%CE%BD%CE%B1%CF%81%CE%B9%CE%BA%CF%8E%CE%BD
+- https://ro.wikipedia.org/wiki/%C8%9Ainutul_bl%C4%83nurilor
+- https://sv.wikipedia.org/wiki/Vid_sjuttionde_breddgraden
+- https://fr.wikisource.org/wiki/Le_Pays_des_fourrures
