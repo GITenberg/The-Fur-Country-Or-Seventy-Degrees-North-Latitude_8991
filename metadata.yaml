@@ -1,4 +1,5 @@
 _repo: The-Fur-Country-Or-Seventy-Degrees-North-Latitude_8991
+_version: 0.1.0
 contributor:
   translator:
     agent_name: D'Anvers, N.
@@ -10,6 +11,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '1165'
     url: http://www.gutenberg.org/2009/agents/1165
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -32,6 +36,8 @@ description: "The Fur Country (French: Le Pays des fourrures) is an adventure no
   \ large-format edition were published in 1873. The first English translation by\
   \ N. D’Anvers (pseudonym of Mrs. Arthur (Nancy) Bell) was also published in 1873.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8991#The-Fur-Country-Or-Seventy-Degrees-North-Latitude
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
